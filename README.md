@@ -1,24 +1,30 @@
 # Hi there, I'm Harshita Garg 👋
+Second-year **ECE** undergrad at **NIT Kurukshetra** 💻💡
 
-### About Me
-I'm a **second-year B.Tech student** in **Electronics and Communication Engineering** at **NIT Kurukshetra**. Passionate about **Machine Learning 🤖**, **Deep Learning 🧠**, **IoT 🌐**, and **Web Development 💻**. Currently, I'm focusing on enhancing my **Data Structures and Algorithms (DSA)** skills and building real-world projects to apply my knowledge.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshita-garg) 
 
-### Skills 💡
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) ![React](https://img.shields.io/badge/react-%2300D1F2.svg?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-- **Programming Languages**: Python 🐍, JavaScript ⚙️
-- **Machine Learning & Deep Learning**: Pandas 📊, NumPy 🔢, Matplotlib 📉, TensorFlow ⚡, PyTorch 🔥
-- **Web Development**: HTML 🌍, CSS 🎨, JavaScript ⚡, React.js ⚛️, Node.js 🚀
-- **IoT**: NodeMCU 💡, Arduino 🛠️
-- **Tools**: Git 🧑‍💻, GitHub 🌐, VS Code 🖥️, Jupyter 📒, Docker 🐳
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=harshita-garg&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshita-garg&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshita-garg&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Current Projects 🚧
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=harshita-garg&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- **Personalized ML Models**: Building custom machine learning models to make predictions based on datasets. 🔍
-- **IoT Home Automation**: Working on an IoT-based home automation project using NodeMCU and Blynk. 🏠
+---
 
-### Connect with Me 📞
-- [LinkedIn](https://www.linkedin.com/in/harshita-garg-956565261 ) 💼
-- [Email](garg2004harshita@gmail.com) 📧
+[![](https://visitcount.itsvg.in/api?id=harshita-garg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### Fun Fact 🌟
-In my free time, I love to write **poetry ✍️** and **Reading books**!
+<!--
+**harshita-garg/harshita-garg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning **Machine Learning**, **Deep Learning**, **DSA**, and **Web Development**.
+- 📫 How to reach me: harshita.garg@example.com
+- 😄 Pronouns: she/her
+-->
